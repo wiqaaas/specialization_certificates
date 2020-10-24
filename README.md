@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <title>Specialization_Certificates</title>
-</head>
-
 <body>
     <h1>Specialization_Certificates</h1>
         <p> Python_For_Everybody
